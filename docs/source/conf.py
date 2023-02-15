@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Invoice HTML to PDF Converter'
+copyright = '2023, schniter'
+author = 'schniter'
 
 release = '0.1'
 version = '0.1.0'
