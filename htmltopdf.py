@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+SC Invoice Html to PDF Converter - Visual Studio Solution ASP.NET CORE MVC.
 """
 
 __version__ = "0.1.0"
