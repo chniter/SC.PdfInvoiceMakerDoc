@@ -1,13 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to SC Invoice HTML To PDF Converter's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SC Invoice HTML To PDF Converter** is Visual Studio Solution written in *ASPT.NET Core MVC 6* that convert **HTML Invoice to PDF Invoice**. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+Key Features:
+
+Check out the :doc:`gettingstarted` section for further information
 
 .. note::
 
@@ -18,5 +17,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   gettingstarted
